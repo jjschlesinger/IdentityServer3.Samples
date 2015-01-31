@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Custom Grant Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScript Implicit Client - Simple", "JavaScriptImplicitClient-Simple\JavaScript Implicit Client - Simple.csproj", "{104B2540-1F77-4216-B801-428AE970F9C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Client Certificate Client", "ClientCertificateConsoleClient\Console Client Certificate Client.csproj", "{9EBCADC5-9E46-486B-9480-EF1E2F806782}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,16 @@ Global
 		{104B2540-1F77-4216-B801-428AE970F9C9}.Release|ARM.ActiveCfg = Release|Any CPU
 		{104B2540-1F77-4216-B801-428AE970F9C9}.Release|x64.ActiveCfg = Release|Any CPU
 		{104B2540-1F77-4216-B801-428AE970F9C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Release|ARM.ActiveCfg = Release|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Release|x64.ActiveCfg = Release|Any CPU
+		{9EBCADC5-9E46-486B-9480-EF1E2F806782}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
